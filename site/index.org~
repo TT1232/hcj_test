@@ -1,5 +1,4 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="imagine.css" />
-#+OPTIONS: toc:nil num:nil html-style:nil
+#+SETUPFILE: /home/zyd/Downloads/util/org-html-themes-master/org/theme-readtheorg.setup 
 
 * Learn HtmlCssJavascript(HCJ) by doing
 
