@@ -1,4 +1,4 @@
-/home/zyd/Downloads/util/org-html-themes-master/org/theme-readtheorg.setup
+#+SETUPFILE: /home/zyd/Downloads/util/org-html-themes-master/org/theme-readtheorg.setup 
 
 * Learn HtmlCssJavascript(HCJ) by doing
 
