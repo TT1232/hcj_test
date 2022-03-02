@@ -1,0 +1,14 @@
+* Learn HtmlCssJavascript(HCJ) by doing
+
+
+** introduction
+
+In this notes, we proposed a learning path for HCJ. The idea is to repeat the loop of "creating page-deploy/test-learn new featuresa and improve page-deploy/test again-...". In each step, some new features learned will added to the page, then the page will be deployed and tested. By this way, features of HCJ are learned by practicing gradually.  
+
+** minmial page
+The pagesindex.html is located in the directory:
+/home/zyd/projects/hcj/c1/hcj_test/site
+
+Also, it is syncnized with the github page.
+
+
