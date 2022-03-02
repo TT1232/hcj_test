@@ -1,3 +1,6 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="rethink.css" />
+#+OPTIONS: toc:nil num:nil html-style:nil
+
 * Learn HtmlCssJavascript(HCJ) by doing
 
 
@@ -9,6 +12,18 @@ In this notes, we proposed a learning path for HCJ. The idea is to repeat the lo
 The pagesindex.html is located in the directory:
 /home/zyd/projects/hcj/c1/hcj_test/site
 
-Also, it is syncnized with the github page.
+Also, it can be syncnized with the github page by using below command:
+git add .
+git commit
+git push
+
+*** the page url
+
+1. goto repository and click the settings button
+2. Or use
+https://github.com/TT1232/hcj_test/settings/pages
+3. Then we can find page test link is:
+https://tt1232.github.io/hcj_test/site/
+
 
 
