@@ -1,4 +1,4 @@
-#+SETUPFILE: /home/zyd/Downloads/util/org-html-themes-master/org/theme-readtheorg.setup
+#+SETUPFILE: /home/zyd/Downloads/util/org-html-themes-master/org/theme-readtheorg.setup 
 
 * Learn HtmlCssJavascript(HCJ) by doing
 
@@ -26,3 +26,16 @@ https://tt1232.github.io/hcj_test/site/
 
 
 
+
+** convert org mode file into html
+
+** browser-sync
+By using the browser-sync, we can debug the html page locally
+easily. When the html page is changed, the contents in the browser
+will change automatically.
+
+The command is:
+browser-sync start --server --directory --files "*"   
+
+The above command need to be used in the same directory where the html
+file is.

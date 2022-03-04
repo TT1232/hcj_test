@@ -1,8 +1,6 @@
 #+SETUPFILE: /home/zyd/Downloads/util/org-html-themes-master/org/theme-readtheorg.setup 
 
-* Learn HtmlCssJavascript(HCJ) by doing
-
-
+* Learn HtmlCssJavascript(HCJ) by doing      
 ** introduction
 
 In this notes, we proposed a learning path for HCJ. The idea is to repeat the loop of "creating page-deploy/test-learn new featuresa and improve page-deploy/test again-...". In each step, some new features learned will added to the page, then the page will be deployed and tested. By this way, features of HCJ are learned by practicing gradually.  
@@ -26,3 +24,46 @@ https://tt1232.github.io/hcj_test/site/
 
 
 
+
+** convert org mode file into html
+
+A  summary  can  be found below:
+[[/home/zyd/hegel/pages/collections/howtoDoc.org]]
+
+
+** browser-sync
+By using the browser-sync, we can debug the html page locally
+easily. When the html page is changed, the contents in the browser
+will change automatically.
+
+The command is:
+browser-sync start --server --directory --files "*"
+
+The above command need to be used in the same directory where the html
+file is.
+
+** workingflow summary
+
+1. Edit the org file. 
+2. Turn on the browser sync.
+3. Convert to the .html file. 
+4. Test and debug by using the browser sync.
+5. Push stable version to the github pages.
+6. Use the w3c validate as often as possible.
+https://jigsaw.w3.org/css-validator/#validate_by_input
+
+** learning html 
+
+**** learning process
+1. watch video and practice.
+2. Get a cheatsheet or cookbook.
+3. Select and learn a framework.
+
+**** learning notes
+Html define the page structures, for example paragraph,line, etc. Js
+defines its behavior. CSS defines its style. Html approximately
+includes block tags and inline tags.
+
+
+  
+              
